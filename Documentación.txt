@@ -1,8 +1,0 @@
-ANÁLISIS SINTÁCTICO - DOCUMENTACIÓN
-
-El análisis sintáctico se define como el análisis que nos dice el significado
-lógico de ciertas oraciones dadas o partes de esas oraciones. Este convierte
-los tokens provistos por el analizador léxico en otra estructura que facilita el
-análisis posterior y captura de la jerarquía de los mismos.
-
-Este fue desarrollado en C#.
